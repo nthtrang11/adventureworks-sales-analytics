@@ -138,7 +138,7 @@ Bảng dữ liệu giao dịch trung tâm:
 
 ---
 
-## 🧠 Giá trị phân tích
+## ✨ Giá trị phân tích
 
 Dashboard giúp:
 
