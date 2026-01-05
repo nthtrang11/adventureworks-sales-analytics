@@ -7,7 +7,6 @@ SELECT [DateKey]
       --,[FrenchDayNameOfWeek]
       --,[DayNumberOfMonth]
       --,[DayNumberOfYear]
-      ,[WeekNumberOfYear] as WeekNr
       ,[EnglishMonthName] as Month
 	  ,left([EnglishMonthName], 3) as MonthShort      -- useful for FE
       --,[SpanishMonthName]
